@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "nome": "Grand Theft Auto V",
+        "categoria": "Azione",
+        "prezzo": 243
+    },
+    {
+        "id": 2,
+        "nome": "The Witcher 3: Wild Hunt'",
+        "categoria": "Avventura",
+        "prezzo": 665
+    },
+    {
+        "id": 3,
+        "nome": "Counter-Strike: Global Offensive",
+        "categoria": "Sparatutto",
+        "prezzo": 209
+    },
+    {
+        "id": 4,
+        "nome": "Tomb Raider (2013)",
+        "categoria": "Avventura",
+        "prezzo": 538
+    },
+    {
+        "id": 5,
+        "nome": "The Elder Scrolls V: Skyrim",
+        "categoria": "Avventura",
+        "prezzo": 87
+    },
+    {
+        "id": 6,
+        "nome": "Fifa 23",
+        "categoria": "Sport",
+        "prezzo": 192
+    },
+    {
+        "id": 7,
+        "nome": "NBA 2k24",
+        "categoria": "Sport",
+        "prezzo": 428
+    },
+    {
+        "id": 8,
+        "nome": "Portal",
+        "categoria": "Azione",
+        "prezzo": 360
+    },
+    {
+        "id": 9,
+        "nome": "Call of Duty - Modern Walfare III",
+        "categoria": "Fps Battle Royale",
+        "prezzo": 859
+    },
+    {
+        "id": 10,
+        "nome": "Tomb Raider: Underworld",
+        "categoria": "Avventura",
+        "prezzo": 679
+    },
+    {
+        "id": 11,
+        "nome": "Syberia",
+        "categoria": "Azione",
+        "prezzo": 420
+    },
+    {
+        "id": 12,
+        "nome": "League of legends",
+        "categoria": "MOBA",
+        "prezzo": 185
+    },
+    {
+        "id": 13,
+        "nome": "Smite",
+        "categoria": "MOBA",
+        "prezzo": 591
+    },
+    {
+        "id": 14,
+        "nome": "DOTA 2",
+        "categoria": "MOBA",
+        "prezzo": 200
+    },
+    {
+        "id": 15,
+        "nome": "Super Mario 64",
+        "categoria": "Azione",
+        "prezzo": 513
+    },
+    {
+        "id": 16,
+        "nome": "Resident Evil 4 (2005)",
+        "categoria": "Horror",
+        "prezzo": 380
+    },
+    {
+        "id": 17,
+        "nome": "Left 4 Dead 2",
+        "categoria": "Horror",
+        "prezzo": 736
+    },
+    {
+        "id": 18,
+        "nome": "Alan Wake",
+        "categoria": "Horror",
+        "prezzo": 722
+    },
+    {
+        "id": 19,
+        "nome": "Phasmophobia",
+        "categoria": "Horror",
+        "prezzo": 793
+    },
+    {
+        "id": 20,
+        "nome": "Team Fortress 2",
+        "categoria": "Sparatutto",
+        "prezzo": 783
+    },
+    {
+        "id": 21,
+        "nome": "Fortnite",
+        "categoria": "Fps Battle Royale",
+        "prezzo": 813
+    },
+    {
+        "id": 22,
+        "nome": "Forza Motorsport",
+        "categoria": "Corsa",
+        "prezzo": 432
+    },
+    {
+        "id": 23,
+        "nome": "Horizon Zero Dawn",
+        "categoria": "Avventura",
+        "prezzo": 826
+    },
+    {
+        "id": 24,
+        "nome": "Gran Turismo",
+        "categoria": "Corsa",
+        "prezzo": 101
+    },
+    {
+        "id": 25,
+        "nome": "Forza Horizon",
+        "categoria": "Sport",
+        "prezzo": 957
+    },
+    {
+        "id": 26,
+        "nome": "The Finals",
+        "categoria": "Fps Battle Royale",
+        "prezzo": 369
+    },
+    {
+        "id": 27,
+        "nome": "Battlefield 2",
+        "categoria": "Sparatutto",
+        "prezzo": 896
+    },
+    {
+        "id": 28,
+        "nome": "Apex Legends",
+        "categoria": "Fps Battle Royale",
+        "prezzo": 640
+    },
+    {
+        "id": 29,
+        "nome": "Ori and the blind Forest",
+        "categoria": "Avventura",
+        "prezzo": 560
+    },
+    {
+        "id": 30,
+        "nome": "Dark Souls",
+        "categoria": "Horror",
+        "prezzo": 603
+    }
+]

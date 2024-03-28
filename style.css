@@ -1,0 +1,171 @@
+body{
+    margin: 0;
+    background-color: var(--grey);
+}
+
+:root{
+    --orange: #fb8500;
+    --black: #000814;
+    --green: #31572c;
+    --white: #f8f9fa;
+    --red: #d62828;
+    --grey: #202c39;
+}
+.font-titolo{
+    font-family:"Kings", cursive; ;
+}
+
+.font-secondo{
+    font-family:"Montserrat", sans-serif ;
+}
+
+.bg-white-custom{
+    background-color: var(--white);
+}
+
+.bg-black-custom{
+    background-color: var(--black);
+}
+
+.bg-orange-custom{
+    background-color: var(--orange);
+}
+
+.bg-green-custom{
+    background-color: var(--green);
+}
+
+.bg-red-custom{
+    background-color: var(--red);
+}
+
+.font-white-custom{
+    color: var(--white);
+}
+.font-yellow-custom{
+    color: var(--yellow);
+}
+
+.font-red-custom{
+    color: var(--red);
+}
+
+.prima-navbar{
+    padding: 25px;
+    position: relative;
+    z-index: 2;
+    transition: 0.5s;
+}
+
+
+.container-nav {
+    z-index: 3;
+}
+
+.prima-navbar span{
+    letter-spacing: 4px;
+}
+.navbar-logo-custom{
+    width: 70px;
+    object-fit: cover;
+}
+
+.seconda-navbar{
+    transform: translateY(-110px);
+    border-bottom: 3px solid var(--red);
+    box-shadow: 3px 3px 5px 5px;
+    transition: 0.5s;
+    
+}
+
+.header-custom{
+    margin-top: 80px;
+    height: calc(100vh - 80px);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), black), url(./media/background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.header-img {
+    width: 58rem;
+    filter: drop-shadow(0 -6mm 5mm green);
+    z-index: 1;
+}
+
+.header-botton{
+    position: absolute;
+    bottom: 30px;
+    right: 50px;
+    color: var(--red);
+}
+
+
+h1{
+    letter-spacing: 3px;
+    line-height: 200%;
+    font-size: 5rem;
+    text-shadow: 7px 7px var(--red);
+    background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-image: url(./media/CoD.jpeg);
+    background-size: 120%;
+    animation: animation-background 10s ease infinite;
+
+}
+
+@keyframes animation-background{
+    0%{background-position: 0% 0%;}
+    50%{background-position: 100% 100%;}
+    0%{background-position: 0% 0%;}
+}
+
+/* Swiper */
+.swiper{
+    width: 100%;
+    padding-top: 30px;
+    margin-bottom: 30px;
+}
+
+.swiper-slide{
+    background-position: center;
+    background: linear-gradient(to top, var(--green), var(--black));
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+}
+
+/* Games-index css */
+.margin-navbar {
+    margin-top: 100px;
+}
+
+.accordion-button {
+    background-color: var(--orange);
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: var(--orange);
+}
+
+/* Media querys */
+@media screen and(max-width:600px) {
+    .seconda-navbar{
+        transform: translateY(-170px);  
+    }
+    h1 {
+        font-size: 5rem;
+        text-shadow: 2px 2px var(--black);
+        margin-top: 25px;
+    }
+    
+    
+}
